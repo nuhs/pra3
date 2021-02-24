@@ -1,0 +1,14 @@
+{
+ "package": "take_photo2usb",
+ "language": "python",
+ "author": "me",
+ "description": "A description of my Farmware",
+ "farmware_manifest_version": "2.0.0",
+ "package_version": "0.0.0",
+ "farmbot_os_version_requirement": ">= 8.0.0",
+ "farmware_tools_version_requirement": ">= 0.0.0",
+ "url": "https://raw.github.com/nuhs/pra3/master/manifest.json",
+ "zip": "https://github.com/nuhs/pra3/archive/master.zip",
+ "executable": "python",
+ "args": ["pra3-master/take_photo2usb.py"]
+}
